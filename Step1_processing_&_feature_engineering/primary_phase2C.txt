@@ -1,0 +1,181 @@
+Princess Elizabeth Primary School	48	283	590
+Nan Hua Primary School	40	192	480
+Northland Primary School	44	200	455
+Rosyth School	41	142	346
+St. Hilda's Primary School	40	136	340
+South View Primary School	40	128	320
+Nan Chiau Primary School	89	264	297
+Holy Innocents' Primary School	40	115	288
+Rulang Primary School	41	112	273
+Gongshang Primary School	44	107	243
+Temasek Primary School	48	116	242
+Poi Ching School	82	197	240
+Tao Nan School	41	95	232
+Hong Wen School	69	151	219
+Bukit Panjang Primary School	42	89	212
+Red Swastika School	42	89	212
+CHIJ St. Nicholas Girls' School (Primary Section)	40	84	210
+Wellington Primary School	55	108	196
+Sengkang Green Primary School	45	87	193
+Punggol Green Primary School	58	110	190
+Rivervale Primary School	70	133	190
+Pei Hwa Presbyterian Primary School	40	75	188
+Horizon Primary School	44	81	184
+Chua Chu Kang Primary School	62	111	179
+Angsana Primary School	95	167	176
+Nanyang Primary School	44	76	173
+Ai Tong School	45	78	173
+Keming Primary School	82	138	168
+Elias Park Primary School	61	101	166
+Fairfield Methodist School (Primary)	40	66	165
+Pasir Ris Primary School	47	76	162
+Shuqun Primary School	60	97	162
+Xinmin Primary School	62	100	161
+Yangzheng Primary School	48	77	160
+Chongfu School	72	112	156
+Pei Chun Public School	52	81	156
+Huamin Primary School	61	95	156
+Admiralty Primary School	70	109	156
+Naval Base Primary School	58	89	153
+Riverside Primary School	59	90	153
+Radin Mas Primary School	54	81	150
+Kong Hwa School	57	84	147
+Methodist Girls' School (Primary)	43	63	147
+Yu Neng Primary School	56	82	146
+Henry Park Primary School	44	64	145
+Maris Stella High School (Primary Section)	55	77	140
+Westwood Primary School	59	82	139
+Singapore Chinese Girls' Primary School	43	58	135
+Compassvale Primary School	101	133	132
+Frontier Primary School	48	63	131
+Maha Bodhi School	63	82	130
+Catholic High School (Primary Section)	40	52	130
+Hougang Primary School	76	98	129
+Anglo-Chinese School (Primary)	53	68	128
+Anglo-Chinese School (Junior)	62	79	127
+Mee Toh School	116	145	125
+CHIJ Primary (Toa Payoh)	55	69	125
+Anderson Primary School	74	92	124
+Tanjong Katong Primary School	87	108	124
+Punggol Primary School	86	106	123
+River Valley Primary School	60	73	122
+Valour Primary School	84	102	121
+Fern Green Primary School	61	73	120
+North View Primary School	80	95	119
+Paya Lebar Methodist Girls' School (Primary)	103	120	117
+Chongzheng Primary School	72	84	117
+Queenstown Primary School	106	123	116
+Raffles Girls' Primary School	113	130	115
+Kuo Chuan Presbyterian Primary School	67	76	113
+St. Anthony's Primary School	102	114	112
+Canossa Catholic Primary School	50	56	112
+Alexandra Primary School	127	141	111
+St. Joseph's Institution Junior	88	98	111
+Haig Girls' School	97	108	111
+White Sands Primary School	78	86	110
+St. Andrew's Junior School	103	113	110
+West Spring Primary School	79	85	108
+Canberra Primary School	122	131	107
+Qifa Primary School	124	130	105
+Jurong West Primary School	60	63	105
+Oasis Primary School	61	63	103
+Geylang Methodist School (Primary)	132	134	102
+CHIJ Our Lady of the Nativity	111	113	102
+Jing Shan Primary School	61	62	102
+Ngee Ann Primary School	122	122	100
+Dazhong Primary School	85	83	98
+Woodgrove Primary School	103	99	96
+Lakeside Primary School	119	112	94
+Zhangde Primary School	95	88	93
+Kheng Cheng School	121	110	91
+Tampines Primary School	102	92	90
+Sembawang Primary School	75	67	89
+Woodlands Primary School	102	87	85
+Fengshan Primary School	96	75	78
+Teck Ghee Primary School	84	64	76
+De La Salle School	128	96	75
+Punggol Cove Primary School	113	82	73
+Opera Estate Primary School	101	74	73
+Greenwood Primary School	123	89	72
+Junyuan Primary School	81	58	72
+Concord Primary School	108	76	70
+Evergreen Primary School	94	66	70
+Northshore Primary School	159	110	69
+St. Gabriel's Primary School	77	52	68
+Casuarina Primary School	66	44	67
+Park View Primary School	101	66	65
+Waterway Primary School	120	77	64
+Bukit Timah Primary School	111	71	64
+St. Margaret's School (Primary)	122	78	64
+Fernvale Primary School	129	80	62
+Innova Primary School	96	58	60
+CHIJ (Katong) Primary	105	63	60
+Palm View Primary School	130	76	58
+Zhenghua Primary School	76	44	58
+Jurong Primary School	125	73	58
+Springdale Primary School	121	68	56
+CHIJ Our Lady Queen of Peace	105	59	56
+Punggol View Primary School	92	51	55
+Marsiling Primary School	143	74	52
+Woodlands Ring Primary School	105	53	50
+Unity Primary School	88	44	50
+West View Primary School	82	41	50
+East Spring Primary School	130	64	49
+Fuchun Primary School	95	45	47
+Changkat Primary School	119	56	47
+Qihua Primary School	95	42	44
+Jiemin Primary School	134	57	43
+Fuhua Primary School	128	54	42
+Telok Kurau Primary School	138	56	41
+Peiying Primary School	121	49	40
+Cantonment Primary School	100	40	40
+CHIJ Our Lady of Good Counsel	101	40	40
+Yishun Primary School	141	54	38
+Yew Tee Primary School	118	45	38
+CHIJ (Kellock)	128	49	38
+Xishan Primary School	116	43	37
+Beacon Primary School	84	31	37
+North Vista Primary School	148	55	37
+West Grove Primary School	126	45	36
+St. Stephen's School	160	58	36
+Kranji Primary School	60	21	35
+Tampines North Primary School	138	47	34
+Ang Mo Kio Primary School	85	29	34
+Endeavour Primary School	175	53	30
+Xingnan Primary School	143	43	30
+Marymount Convent School	188	56	30
+Anchor Green Primary School	128	36	28
+Edgefield Primary School	162	46	28
+Corporation Primary School	118	31	26
+Townsville Primary School	104	27	26
+Cedar Primary School	151	38	25
+Damai Primary School	87	22	25
+Mayflower Primary School	121	30	25
+Clementi Primary School	214	51	24
+Farrer Park Primary School	164	37	23
+Gan Eng Seng Primary School	115	27	23
+Blangah Rise Primary School	77	18	23
+North Spring Primary School	173	38	22
+Boon Lay Garden Primary School	121	27	22
+Si Ling Primary School	100	22	22
+St. Anthony's Canossian Primary School	165	36	22
+Montfort Junior School	113	25	22
+Bendemeer Primary School	143	30	21
+Yio Chu Kang Primary School	123	24	20
+Bedok Green Primary School	143	27	19
+Greenridge Primary School	103	19	18
+Ahmad Ibrahim Primary School	157	27	17
+Xinghua Primary School	203	34	17
+Pei Tong Primary School	196	29	15
+Northoaks Primary School	137	20	15
+Yuhua Primary School	160	23	14
+Lianhua Primary School	252	36	14
+Meridian Primary School	157	22	14
+Teck Whye Primary School	143	19	13
+Seng Kang Primary School	163	22	13
+Greendale Primary School	190	23	12
+New Town Primary School	164	19	12
+Zhonghua Primary School	95	11	12
+Bukit View Primary School	242	27	11
+Yumin Primary School	161	14	9
+First Toa Payoh Primary School	119	9	8
